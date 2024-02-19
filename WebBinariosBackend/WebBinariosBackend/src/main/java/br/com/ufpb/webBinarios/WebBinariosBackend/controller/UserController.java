@@ -1,7 +1,7 @@
-package br.com.ufpb.computacaoplugada.ComputacaoPlugadaBackend.controller;
+package br.com.ufpb.webBinarios.WebBinariosBackend.controller;
 
-import br.com.ufpb.computacaoplugada.ComputacaoPlugadaBackend.model.User;
-import br.com.ufpb.computacaoplugada.ComputacaoPlugadaBackend.repository.UserRepository;
+import br.com.ufpb.webBinarios.WebBinariosBackend.model.User;
+import br.com.ufpb.webBinarios.WebBinariosBackend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
